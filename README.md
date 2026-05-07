@@ -1,6 +1,6 @@
 # dras_3
 Pythonda raqamlar ustida matematik vazifalarni bajarishga imkon beruvchi keng qamrovli matematik modulni o'z ichiga olgan o'rnatilgan matematik funktsiyalar to'plami mavjud.
-11
+1
 O'rnatilgan matematik funktsiyalar
 va funksiyalari iterable min()ichidagi max()eng past yoki eng yuqori qiymatni topish uchun ishlatilishi mumkin:
 
